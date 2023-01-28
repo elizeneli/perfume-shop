@@ -157,7 +157,7 @@ nav a:hover {
 /*SHOP SECTION*/
 section.shop {
   width: 100%;
-  height: 100vh;
+  height: 105vh;
   background-color: rgb(254, 255, 202);
   padding: 80px 0px;
 }
@@ -336,11 +336,9 @@ section.about .details p {
 .about .fa-instagram:hover{
   color: #962fbf;
 }
-
-
 section.contact {
   width: 100%;
-  height: 110vh;
+  height: 115vh;
   background-color: rgb(254, 255, 202);
 
   background-repeat: no-repeat;
@@ -358,7 +356,7 @@ section.contact .contact-info-form {
 section.contact input,
 section.contact textarea {
   width: 70%;
-  margin-top: 80px;
+  margin-top: 50px;
   box-shadow: none;
   border: 0px;
   border-bottom: 3px solid black;
@@ -382,7 +380,6 @@ section.contact button {
   background-color: transparent;
   box-shadow: none;
 }
-
 section.contact button:hover {
   padding: 6px 80px;
 }
@@ -396,5 +393,5 @@ section.contact .info span {
 iframe{
   display: flex;
   justify-content: end;
-  margin: -650px 600px;
+  margin: -550px 600px;
 }
